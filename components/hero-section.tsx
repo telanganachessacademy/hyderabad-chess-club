@@ -75,7 +75,7 @@ export function HeroSection() {
             </div>
 
             <div className="space-y-4">
-              <h1 className="text-3xl sm:text-5xl md:text-6xl font-black tracking-tight text-slate-900 leading-[1.05]">
+              <h1 className="text-xl sm:text-5xl md:text-4xl font-black tracking-tight text-slate-900 leading-[1.05]">
                 HYDERABAD CHESS{" "}
                 <span className="text-transparent bg-clip-text bg-gradient-to-r from-amber-600 via-orange-600 to-emerald-600">
                   CLUB
